@@ -1,0 +1,7 @@
+C:\Users\surya\source\repos\Jnew\Jnew\bin\Debug\Jnew.exe.config
+C:\Users\surya\source\repos\Jnew\Jnew\bin\Debug\Jnew.exe
+C:\Users\surya\source\repos\Jnew\Jnew\bin\Debug\Jnew.pdb
+C:\Users\surya\source\repos\Jnew\Jnew\obj\Debug\Jnew.csprojAssemblyReference.cache
+C:\Users\surya\source\repos\Jnew\Jnew\obj\Debug\Jnew.csproj.CoreCompileInputs.cache
+C:\Users\surya\source\repos\Jnew\Jnew\obj\Debug\Jnew.exe
+C:\Users\surya\source\repos\Jnew\Jnew\obj\Debug\Jnew.pdb
